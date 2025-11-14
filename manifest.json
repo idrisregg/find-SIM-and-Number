@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "DZ sim extractor",
+  "version": "1.0",
+  "description": "Shows the types and Numbers of Mobile Phone providers on an Algerian Websites like Ouedkniss",
+  "permissions": ["scripting"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
