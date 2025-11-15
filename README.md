@@ -1,21 +1,21 @@
 # Algerian SIM Type & Phone Number Extractor
 
-A simple Chrome extension that automatically extracts **phone numbers** and **SIM types** (Mobilis, Djezzy, Ooredoo) from Algerian websites.  
+A simple Chrome extension that automatically extracts Phone number and SIM Types (Mobilis, Djezzy, Ooredoo) from Algerian websites.  
 
 ---
 
 ## Installation
 
-1. clone this repository  
-2. Open Chrome and go to:  
+. clone this repository  
+. open Chrome and go to:  
    chrome://extensions
-3. Enable **Developer mode**  
-4. Click **Load unpacked**  
-5. Select this project’s folder  
+. enable **Developer mode**  
+. click **Load unpacked**  
+. select this project’s folder  
 
 ---
 
 ##  Why?
 
-Because finding phone numbers manually is boring.
+because finding phone numbers manually is boring
 
