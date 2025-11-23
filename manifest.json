@@ -4,6 +4,11 @@
   "version": "1.0",
   "description": "Shows the types and Numbers of Mobile Phone providers on an Algerian Websites like Ouedkniss",
   "permissions": ["scripting"],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
