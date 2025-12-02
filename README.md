@@ -6,7 +6,7 @@ A simple Chrome extension that automatically extracts Phone number and SIM Types
 
 ## Installation
 
-. clone this repository  
+. download or clone this repository  
 
 . open Chrome and go to:  
    chrome://extensions
