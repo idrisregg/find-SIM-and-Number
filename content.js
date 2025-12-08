@@ -18,7 +18,7 @@ function extractPhoneNumbers() {
     document.querySelectorAll(selectors.join(', ')).forEach(span => {
         const number = span.textContent.trim();
         if (!number) return;
-        // Determine SIM type based on the second character
+        // determine SIM type based on the second character
         const secondChar = number.replace(/\s/g, '')[1];
         
         let simType = 'Unknown SIM';
